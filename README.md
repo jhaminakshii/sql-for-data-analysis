@@ -1,52 +1,20 @@
-# SQL for Data Analysis
+## 📌 Topics Covered (Up to Today)
 
-This repository contains my **daily SQL practice** aimed at strengthening database querying skills for **Data Analysis** and **Data Engineering** roles.
+In this repo, I have practiced and added SQL queries on the following topics:
 
-I’m using **SQL Server (SSMS)** to practice real-world scenarios and interview-style challenges.
+### 🧰 Day 1–3 (Basics)
+- SELECT, WHERE, DISTINCT
+- ORDER BY, TOP
+- Aggregations: COUNT, SUM, AVG, MIN, MAX
+- GROUP BY, HAVING
 
----
-
-## 📂 Repository Contents
-
-- **day01_basic_select.sql** – SELECT, WHERE, DISTINCT  
-- **day02_basic_practice.sql** – ORDER BY, TOP, COUNT, SUM, AVG, GROUP BY, HAVING   
-- **challenge.sql** – 15+ interview-style challenge problems (filtering, ordering & aggregation)
-
----
-
-## 🧠 Topics Covered (Days 1–2)
-
-### 📌 Basic Queries
-- `SELECT` all fields  
-- `WHERE` filtering  
-- `DISTINCT` values
-
-### 📌 Sorting & Limiting
-- `ORDER BY` ascending/descending  
-- `TOP N` results
-
-### 📌 Aggregations
-- `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
-
-### 📌 Grouping & Filtering Aggregates
-- `GROUP BY`  
-- `HAVING` (filter groups)
-
----
-
-## 🧪 Challenge File – Self Practice
-
-The **challenge.sql** file contains 15+ problems designed to test your skills on:
-
-- Filtering
-- Aggregations
-- Ordering
-- Grouping
-- HAVING clauses
-
-These problems are similar to what you might see in SQL technical interviews for data roles.
-
----
+### 🧠 Day 4–5 (Advanced & Today’s Practice)
+- Wildcards (`LIKE`) and pattern matching
+- `IN`, `BETWEEN`
+- Column Aliases
+- All types of JOINs (INNER, LEFT, RIGHT, FULL)
+- `UNION` vs `UNION ALL`
+- `EXISTS` clause
 
 ## 💼 How to Practice
 
