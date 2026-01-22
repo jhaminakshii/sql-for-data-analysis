@@ -1,7 +1,10 @@
 # SQL for Data Analysis
 
 This repository contains my SQL practice exercises, progressing from **basic queries** 
-to **advanced SQL topics** including window functions and real-world scenarios.
+to **advanced SQL topics** including window functions and real-world scenarios, aimed at strengthening database querying skills for **Data Analysis** and **Data Engineering** roles.
+
+
+I’m using **SQL Server (SSMS)** to practice real-world scenarios and interview-style challenges.
 
 ---
 
