@@ -34,6 +34,21 @@ I’m using **SQL Server (SSMS)** to practice real-world scenarios and interview
   - Update only `NULL` values sequentially
   - Detect gaps in sequence numbers using `LEAD()`
 
+### 🧠 Day (6-7) – Window Functions (Advanced SQL)
+- ROW_NUMBER, RANK, DENSE_RANK
+- PARTITION BY
+- LAG, LEAD
+- NTILE
+- FIRST_VALUE
+- Running totals
+- Rolling averages
+
+Skills Demonstrated:
+- Analytical queries
+- Department-wise analysis
+- Trend and comparison logic
+- Interview-level SQL problem solving
+
 ---
 
 ## 💼 How to Practice
