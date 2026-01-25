@@ -49,7 +49,7 @@ Skills Demonstrated:
 - Trend and comparison logic
 - Interview-level SQL problem solving
 
-## 🔤 SQL String Functions (Basic)
+### 🧠 Day 8 - SQL String Functions (Basic)
 
 Practiced essential SQL string manipulation functions with real-world use cases:
 
@@ -66,6 +66,26 @@ Practiced essential SQL string manipulation functions with real-world use cases:
 📄 `SQLBasics/08_Basic_String_Functions.sql`
 
 These queries focus on cleaning, transforming, and validating textual data — a critical skill for Data Analysts and SQL Developers.
+
+### 🧠 Day 9 - SQL String Functions (Advanced)
+
+Advanced string manipulation using real-world employee and email data.
+
+### Topics Covered
+- CHARINDEX(), PATINDEX()
+- SUBSTRING(), LEFT(), RIGHT()
+- REVERSE()
+- Email parsing & masking
+- Removing extra spaces
+- Detecting invalid data
+- Word count logic
+- Conditional string handling with CASE
+- CTE + String Functions
+
+### Practice File
+📄 `SQLBasics/09_Advanced_String_Functions.sql`
+
+These exercises focus on data cleaning, validation, and transformation — essential skills for Data Analysts, SQL Developers, and ETL roles.
 
 ---
 
