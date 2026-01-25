@@ -49,6 +49,24 @@ Skills Demonstrated:
 - Trend and comparison logic
 - Interview-level SQL problem solving
 
+## 🔤 SQL String Functions (Basic)
+
+Practiced essential SQL string manipulation functions with real-world use cases:
+
+### Topics Covered
+- LEN(), TRIM(), LTRIM(), RTRIM()
+- UPPER(), LOWER()
+- SUBSTRING(), LEFT(), RIGHT()
+- LIKE with wildcards
+- REPLACE()
+- Pattern searching
+- CHARINDEX()
+
+### Practice File
+📄 `SQLBasics/08_Basic_String_Functions.sql`
+
+These queries focus on cleaning, transforming, and validating textual data — a critical skill for Data Analysts and SQL Developers.
+
 ---
 
 ## 💼 How to Practice
