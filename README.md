@@ -87,6 +87,23 @@ Advanced string manipulation using real-world employee and email data.
 
 These exercises focus on data cleaning, validation, and transformation — essential skills for Data Analysts, SQL Developers, and ETL roles.
 
+### 🧠 Day 10 - SQL String Functions – Advanced Challenges 
+
+These queries focus on complex string analysis and interview-level logic.
+
+### Key Skills Demonstrated
+- Pattern-based string comparison
+- Vowel counting logic
+- Email domain analysis
+- Name normalization & cleansing
+- Initial extraction
+- Duplicate detection using strings
+- Subqueries with string functions
+- Real-world data validation
+
+📄 Practice File:
+- `SQLAdvance/10_String_Functions_Advanced_Challenges.sql`
+
 ---
 
 ## 💼 How to Practice
