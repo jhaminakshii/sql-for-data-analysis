@@ -104,6 +104,24 @@ These queries focus on complex string analysis and interview-level logic.
 📄 Practice File:
 - `SQLAdvance/10_String_Functions_Advanced_Challenges.sql`
 
+### 🧠 Day 11 - Subqueries in SQL
+
+This section covers **all major types of SQL subqueries** with real-world and interview-focused examples.
+
+### Topics Covered
+- Single-row subqueries
+- Multi-row subqueries (`IN`)
+- Scalar subqueries
+- Subqueries in `FROM` (Derived Tables)
+- Correlated subqueries
+- `EXISTS` vs `NOT EXISTS`
+- Second highest salary
+- Department-wise salary comparisons
+- Real-world use cases with Orders & Employees
+
+📄 Practice File:
+- `SQLAdvanced/11_Subqueries_Fundamentals.sql`
+
 ---
 
 ## 💼 How to Practice
