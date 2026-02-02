@@ -16,9 +16,9 @@ I’m using **SQL Server (SSMS)** to practice real-world scenarios and interview
 - Aggregations: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
 - `GROUP BY`, `HAVING`
 
-### Practice File
- 📄 `SQLBacics/day04_advanced_sql_challenges.sql` 
- 📄 `SQLBacics/day05_basic_row_number.sql`
+📄 Practice File
+ - `SQLBacics/day04_advanced_sql_challenges.sql` 
+ - `SQLBacics/day05_basic_row_number.sql`
 
 ### 🧠 Day 4–5 (Intermediate & Advanced)
 - Wildcards (`LIKE`) and pattern matching
@@ -38,9 +38,9 @@ I’m using **SQL Server (SSMS)** to practice real-world scenarios and interview
   - Update only `NULL` values sequentially
   - Detect gaps in sequence numbers using `LEAD()`
 
-### Practice File
- 📄 `SQLBacics/day04_advanced_sql_challenges.sql` 
- 📄 `SQLBacics/day05_basic_row_number.sql`
+📄 Practice File
+ - `SQLBacics/day04_advanced_sql_challenges.sql` 
+ - `SQLBacics/day05_basic_row_number.sql`
 
 ### 🧠 Day (6-7) – Window Functions (Advanced SQL)
 - ROW_NUMBER, RANK, DENSE_RANK
@@ -57,9 +57,9 @@ Skills Demonstrated:
 - Trend and comparison logic
 - Interview-level SQL problem solving
 
-### Practice File
- 📄 `SQLAdvance/06_ROW_NUM_Advance_Practice.sql` 
- 📄 `SQLAdvance/07_Window_Functions_Challenges.sql`
+📄 Practice File
+ - `SQLAdvance/06_ROW_NUM_Advance_Practice.sql` 
+ - `SQLAdvance/07_Window_Functions_Challenges.sql`
 
 ### 🧠 Day 8 - SQL String Functions (Basic)
 
@@ -74,8 +74,8 @@ Practiced essential SQL string manipulation functions with real-world use cases:
 - Pattern searching
 - CHARINDEX()
 
-### Practice File
-📄 `SQLBasics/08_Basic_String_Functions.sql`
+📄 Practice File
+  - `SQLBasics/08_Basic_String_Functions.sql`
 
 These queries focus on cleaning, transforming, and validating textual data — a critical skill for Data Analysts and SQL Developers.
 
@@ -94,8 +94,8 @@ Advanced string manipulation using real-world employee and email data.
 - Conditional string handling with CASE
 - CTE + String Functions
 
-### Practice File
-📄 `SQLBasics/09_Advanced_String_Functions.sql`
+📄 Practice File
+  - `SQLBasics/09_Advanced_String_Functions.sql`
 
 These exercises focus on data cleaning, validation, and transformation — essential skills for Data Analysts, SQL Developers, and ETL roles.
 
@@ -113,8 +113,8 @@ These queries focus on complex string analysis and interview-level logic.
 - Subqueries with string functions
 - Real-world data validation
 
-### Practice File
-📄 `SQLAdvance/10_String_Functions_Advanced_Challenges.sql`
+📄 Practice File
+ - `SQLAdvance/10_String_Functions_Advanced_Challenges.sql`
 
 ### 🧠 Day 11 - Subqueries in SQL
 
@@ -131,8 +131,8 @@ This section covers **all major types of SQL subqueries** with real-world and in
 - Department-wise salary comparisons
 - Real-world use cases with Orders & Employees
 
-### Practice File
-📄 `SQLAdvanced/11_Subqueries_Fundamentals.sql`
+📄 Practice File
+ - `SQLAdvanced/11_Subqueries_Fundamentals.sql`
 
 ### 🧠 Day 12 – Indexes (Clustered & Non-Clustered)
 
@@ -149,8 +149,8 @@ Hands-on:
 - Practiced real interview-style challenges
 - Learned when to add and remove indexes
 
-### Practice File
-📄 `SQLAdvanced/12_Indexes.sql`
+📄 Practice File
+ - `SQLAdvanced/12_Indexes.sql`
 
 ---
 
