@@ -1,7 +1,13 @@
 # SQL for Data Analysis
 
-This repository contains my SQL practice exercises, progressing from **basic queries** 
-to **advanced SQL topics** including window functions and real-world scenarios, aimed at strengthening database querying skills for **Data Analysis** and **Data Engineering** roles.
+This repository contains my **hands-on SQL practice**, focused on **data analysis, ETL concepts, and interview preparation**.  
+All scripts are written and tested in **SQL Server (SSMS)** with real-world and interview-style scenarios.
+
+The goal of this repo is to:
+- Strengthen SQL fundamentals
+- Practice advanced SQL concepts
+- Build a solid portfolio for **Data Engineer / ETL / SQL Developer roles**
+
 
 
 I’m using **SQL Server (SSMS)** to practice real-world scenarios and interview-style challenges.
@@ -152,6 +158,15 @@ Hands-on:
 📄 Practice File
  - `SQLAdvanced/12_Indexes.sql`
 
+### 🧠 Day 13 – Stored Procedures (Basic)
+
+Topics Covered:
+- Basic stored procedures
+- Parameterized procedures
+
+📄 Practice File
+ - `SQLAdvance/13_Store_Procedure_Challenges.sql`
+ 
 ---
 
 ## 💼 How to Practice
