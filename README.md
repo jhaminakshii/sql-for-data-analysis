@@ -163,6 +163,8 @@ Hands-on:
 Topics Covered:
 - Basic stored procedures
 - Parameterized procedures
+- Modular SQL logic
+- Interview-style SP challenges
 
 📄 Practice File
  - `SQLAdvance/13_Store_Procedure_Challenges.sql`
@@ -171,6 +173,11 @@ Topics Covered:
 
 ## 💼 How to Practice
 
-1. Clone the repo:
+ Clone the repo:
 ```bash
 git clone https://github.com/jhaminakshii/sql-for-data-analysis.git
+
+👩‍💻 Author
+Minakshi Kumari
+B.Tech (Computer Science)
+Focused on SQL, Data Engineering & ETL roles
