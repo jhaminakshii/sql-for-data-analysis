@@ -169,6 +169,14 @@ Topics Covered:
 📄 Practice File
  - `SQLAdvance/13_Store_Procedure_Challenges.sql`
  
+## 🚧 Upcoming Topics (In Progress)
+- Dynamic SQL
+- Advanced Stored Procedures
+- CTE (Recursive)
+- Transactions & Error Handling
+- Query Optimization & Execution Plans
+- SQL Case Studies (End-to-End)
+
 ---
 
 ## 💼 How to Practice
@@ -177,7 +185,8 @@ Topics Covered:
 ```bash
 git clone https://github.com/jhaminakshii/sql-for-data-analysis.git
 
-👩‍💻 Author
+
+# 👩‍💻 Author
 Minakshi Kumari
 B.Tech (Computer Science)
 Focused on SQL, Data Engineering & ETL roles
